@@ -1,0 +1,20 @@
+<!DOCTYPE html> 
+<html>
+  <head> 
+   <title>Musica y por que musica</title>
+   <p> <parrafo de texto subtitulo>
+    <texto>
+    <texto>
+    <texto>
+    <texto>
+    <texto>
+     <img>  
+    </ARTICLE>
+   <SECTION>
+  <FOOTER>
+   Javier Sebastian Muñoz Diaz <br> 
+   Expresion en internet <br>
+   2021 
+   </FOOTER>
+  </body>
+ </html>
